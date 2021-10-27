@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.exe
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.deps.json
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.runtimeconfig.json
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.runtimeconfig.dev.json
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.dll
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\bin\Debug\netcoreapp3.1\MoodAnalayserSolution.pdb
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.AssemblyInfo.cs
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.dll
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.pdb
+C:\Users\md048\source\repos\MoodAnalayserFinalSolution\MoodAnalayserSolution\obj\Debug\netcoreapp3.1\MoodAnalayserSolution.genruntimeconfig.cache
